@@ -96,4 +96,4 @@ Inline-blocks behave like inline elements except one can define their width and 
 
 ### What is the difference between a `<section>` and an `<article>` element? Name one good example of using an `<article>`.
 #### Your answer: [2p]
-Article elements should be meaningful on their own, without the rest of the website, while section tags are used to define a seperate part of the site. Articles are like comments, blog posts.
+Article elements should be meaningful on their own, while section tags are used to define seperate parts of the site like chapters, groups of related content. Articles are like comments, blog posts.
