@@ -81,6 +81,7 @@ Add your answer to this readme file, commit your changes to this repository.
 </html>
 ```
 #### Your answer: [2p]
+In the example the yellow box's position is defined from the position of the blue element, because it is its first ancestor with a non-static positioning value. That is why the top and the left side of the yellow box will be 20px+20px=40px far from the body.
 
 
 ## 3. Explain concepts (~15 minutes) [4 points]
