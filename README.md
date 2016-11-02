@@ -91,7 +91,7 @@ Add your answer to this readme file, commit your changes to this repository.
 ### Explain the difference between `display: block` and `display: inline` in CSS! What is `display: inline-block`?
 #### Your answer: [2p]
 Block level elements take up all the horizontal space they can, while inline elements use just as much width as necessary. Inline elements do not start on a new line as blocks do. Example of inline elements are: span, a, em. Block level element examples: div, p, h1.
-Inline-blocks behave like inline elements only one can define their width and height.
+Inline-blocks behave like inline elements except one can define their width and height.
 
 
 ### What is the difference between a `<section>` and an `<article>` element? Name one good example of using an `<article>`.
